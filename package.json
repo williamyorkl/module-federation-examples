@@ -51,7 +51,7 @@
     "lerna": "3.22.1",
     "prettier": "2.4.0",
     "pretty-quick": "3.1.2",
-    "@vue/compiler-sfc": "3.2.6"
+    "@vue/compiler-sfc": "3.2.26"
   },
   "scripts": {
     "bootstrap": "lerna bootstrap --ignore-scripts",
